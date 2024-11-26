@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chy10001&show_icons=true&locale=en" alt="chy000y" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chy10001&" alt="chy000y" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chy10001&" alt="chy1001" /></p>
