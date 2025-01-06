@@ -3,7 +3,8 @@
 
  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chy1001&label=Profile%20views&color=0e75b6&style=flat" alt="chy1001" /> </p> -->
 
-- I’m currently learning front-end development and passionate about HCI.
+- I’m currently learning front-end development and Machine Learning.
+- I'm passionate about Human-Computer Interaction.
 
 
 <h3 align="left">Connect with me:</h3>
