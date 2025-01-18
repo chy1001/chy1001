@@ -6,7 +6,6 @@
 - I’m currently learning front-end development and Machine Learning.
 - I'm passionate about Human-Computer Interaction.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
