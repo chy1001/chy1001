@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm chy</h1>
 <h3 align="center">A curious mind that never stops exploring.</h3>
-<h3 align="center">Good Show!</h3>
+<h3 align="center" style="color: purple;">Good Show!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chy1001&label=Profile%20views&color=0e75b6&style=flat" alt="chy1001" /> </p> 
  <!-- here -->
