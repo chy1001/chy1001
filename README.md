@@ -2,7 +2,7 @@
 <h3 align="center">A curious mind that never stops exploring.</h3>
 <h3 align="center">Good Show!</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=chy1001&label=Profile%20views&color=0e75b6&style=flat" alt="chy1001" />
 </p>
 
@@ -15,7 +15,7 @@
 ---
 
 ### 🛠 Languages and Tools
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
