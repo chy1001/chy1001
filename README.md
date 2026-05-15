@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 About Me
-- I’m currently learning **Front-end Development** and **Machine Learning**
-- I'm passionate about **Human-Computer Interaction**
+- **Full Stack Development** and **Machine Learning**
+- Passionate about **Human-Computer Interaction**
 
 ---
 
